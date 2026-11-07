@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Archived experiments and packaged duplicates stay local.
+index.forest-v1.html
+index.archive-v2.html
+*.zip
+/mistwood/
+
+# Local tooling and build output
+.deploy-tools/
+_site/
+node_modules/
+.env
+.env.*
+
+# Stale local duplicate of an older site version (65MB, has its own nested .git).
+/mysthub/

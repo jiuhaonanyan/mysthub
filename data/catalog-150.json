@@ -2916,5 +2916,55 @@
       "campus",
       "closed"
     ]
+  },
+  {
+    "id": "g024",
+    "title": "巴别塔圣歌",
+    "englishTitle": "Chants of Sennaar",
+    "author": "Rundisc · 语言解谜",
+    "medium": "game",
+    "steamApp": "1931770",
+    "styles": [
+      "本格",
+      "变格"
+    ],
+    "tricks": [
+      "语言破译",
+      "语境观察",
+      "符号比对"
+    ],
+    "brainBurn": 4,
+    "desc": "化身旅人走入高塔，在不同族群的生活与对话中观察符号的用法。通过语境、图像和反复验证，逐步理解陌生的语言，寻找沟通的可能。",
+    "why": "如果你喜欢从细节建立假设，再用新线索修正判断，这座高塔会让每一次读懂都成为一次小小的破案。",
+    "tags": [
+      "interactive",
+      "strange"
+    ],
+    "cover": "assets/covers/g024.jpg",
+    "sourcePage": "https://store.steampowered.com/app/1931770/"
+  },
+  {
+    "id": "g025",
+    "title": "typehelp",
+    "englishTitle": "Type Help",
+    "author": "William Rous · 文字档案推理",
+    "medium": "game",
+    "styles": [
+      "本格"
+    ],
+    "tricks": [
+      "档案检索",
+      "身份推断",
+      "时间线梳理"
+    ],
+    "brainBurn": 5,
+    "desc": "在一台旧电脑中检索与 Galley House 有关的文件，通过输入指令和文件编号逐步找回记录。对照不同片段里的说话者、时间与地点，自行整理事件的脉络。",
+    "why": "适合愿意拿出笔记本慢慢调查的你。没有现成的线索连线，让每一次检索成为对自己推断的验证。",
+    "tags": [
+      "interactive",
+      "closed"
+    ],
+    "cover": "assets/covers/g025.jpg",
+    "sourcePage": "https://william-rous.itch.io/type-help"
   }
 ]

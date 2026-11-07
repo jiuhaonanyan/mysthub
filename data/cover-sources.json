@@ -3078,5 +3078,25 @@
         "pic": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937022178.jpg"
       }
     ]
+  },
+  "g024": {
+    "title": "巴别塔圣歌",
+    "matchedTitle": "Chants of Sennaar",
+    "matchedAuthor": "Rundisc · 语言解谜",
+    "sourcePage": "https://store.steampowered.com/app/1931770/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/library_600x900.jpg",
+    "local": "assets/covers/g024.jpg",
+    "bytes": 47390,
+    "candidates": []
+  },
+  "g025": {
+    "title": "typehelp",
+    "matchedTitle": "Type Help",
+    "matchedAuthor": "William Rous · 文字档案推理",
+    "sourcePage": "https://william-rous.itch.io/type-help",
+    "imageUrl": "https://img.itch.zone/aW1nLzE5NTExNzk0LnBuZw==/original/uZYMJO.png",
+    "local": "assets/covers/g025.jpg",
+    "bytes": 90193,
+    "candidates": []
   }
 }
